@@ -1,12 +1,12 @@
 baseURL = "https://example.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Hallo"
+title = "Hello"
 theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Hallo"
+    name = "Andrew"
 
 [params]
 
